@@ -47,7 +47,7 @@ Estructura basada en modulos para la enseñanza y educación para el diseño/des
     - Hoja de trucos de tamaños de pantalla
   - Diseño con sol.icitud a los medios (media queries)
   - Pruebas en el navegador
-      Lista de verificación de navegadores
+      - Lista de verificación de navegadores
   - Lista de verificación de lanzamiento, Desarrollo web 1
 3. Desarrollo web 2
   - ...
