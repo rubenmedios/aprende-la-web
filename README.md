@@ -35,7 +35,7 @@ Estructura basada en modulos para la enseñanza y educación para el diseño/des
   - Todo es una caja
   - Flujo del documento & propiedad 'display'
   - Estructura de solo texto
-  - 'Float' & 'clear'
+  - 'Float' & ´clear´
   - Position & z-index
   - Flexbox
   - CSS layout cheat sheet
