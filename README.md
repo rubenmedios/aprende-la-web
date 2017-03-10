@@ -1,6 +1,6 @@
 # Aprende la web
 
-Propuesta de estructura basada en modulos para la enseñanza y (auto)educación para el diseño/desarrollo web
+Propuesta de estructura basada en modulos para la (auto)enseñanza y (auto)educación para el diseño/desarrollo web
 
 -----------------------
 
@@ -45,7 +45,7 @@ Propuesta de estructura basada en modulos para la enseñanza y (auto)educación 
   - Configuración para todos los dispositivos
   - Solicitud a los medios (media queries)
     - Hoja de trucos de tamaños de pantalla
-  - Diseño con sol.icitud a los medios (media queries)
+  - Diseño con solicitud a los medios (media queries)
   - Pruebas en el navegador
       - Lista de verificación de navegadores
   - Lista de verificación de lanzamiento, Desarrollo web 1
