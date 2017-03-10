@@ -1,6 +1,6 @@
 # Aprende la web
 
-Estructura basada en modulos para la enseñanza y educación para el diseño/desarrollo web
+Propuesta de estructura basada en modulos para la enseñanza y (auto)educación para el diseño/desarrollo web
 
 -----------------------
 
