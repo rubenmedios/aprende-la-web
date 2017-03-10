@@ -27,27 +27,28 @@ Estructura basada en modulos para la enseñanza y educación para el diseño/des
   - Uso de CSS
       - CSS indentado
       - CSS lista de verificacion de selectores & unidades
-  - Basic typography
-      - Using Google Fonts
-      - Web typography cheat sheet
+  - Tipografía básica
+      - Uso de fuentes de Google
+      - Hoja de trucos de tipografía web
   - Herramientas de desarrollo en navegadores
   - Validadores
   - Todo es una caja
   - Flujo del documento & propiedad `display`
-  - Estructura de solo texto
+  - Diseño de solo texto
   - `Float` & `clear`
-  - Position & z-index
-  - Flexbox
-  - CSS layout cheat sheet
-  - Navigation
-  - Small screen layout
-  - All devices setup
-  - Media queries
-  - Screen sizes cheat sheet
-  - Media queries layout
-  - Browser testing
-      Browser testing checklist
-  Launch checklist, Web Dev 1
+  - Posicionado & `z-index`
+  - Flexbox (intro)
+  - CSS Grids (intro)
+  - Hoja de trucos de diseño CSS
+  - Navegación
+  - Diseño para pantallas pequeñas
+  - Configuración para todos los dispositivos
+  - Solicitud a los medios (media queries)
+    - Hoja de trucos de tamaños de pantalla
+  - Diseño con sol.icitud a los medios (media queries)
+  - Pruebas en el navegador
+      Lista de verificación de navegadores
+  - Lista de verificación de lanzamiento, Desarrollo web 1
 3. Desarrollo web 2
   - ...
 4. Desarrollo web 3
