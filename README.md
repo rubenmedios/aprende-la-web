@@ -9,11 +9,11 @@ Estructura basada en modulos para la enseñanza y educación para el diseño/des
 1. Configuración
   - La web abierta
   - Navegadores web
-  - Uso de URL´s
+    - Uso de URL´s
   - Editores de código
-  - Hoja de trucos básicos
-  - Hoja de trucos de atajos de teclado
-  - Hoja de trucos de caracteres
+    - Hoja de trucos básicos
+    - Hoja de trucos de atajos de teclado
+    - Hoja de trucos de caracteres
   - Github & control de versiones
   - Convenciones de nombre
   - Uso de carpetas y rutas
@@ -30,12 +30,12 @@ Estructura basada en modulos para la enseñanza y educación para el diseño/des
   - Basic typography
       - Using Google Fonts
       - Web typography cheat sheet
-  - Browser developer tools
-  - Validators
-  - Everything is a box
-  - Flow & display
-  - Typography-only layout
-  - Float & clear
+  - Herramientas de desarrollo en navegadores
+  - Validadores
+  - Todo es una caja
+  - Flujo del documento & propiedad 'display'
+  - Estructura de solo texto
+  - 'Float' & 'clear'
   - Position & z-index
   - Flexbox
   - CSS layout cheat sheet
