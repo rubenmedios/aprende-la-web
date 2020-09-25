@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "Peoe",
+  "custom-object": {
+    "custom-line": "Pepe",
+    "custom-text": "Papa"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "Dos"
+    },
+    {
+      "custom-list-item": "Uno"
+    }
+  ]
+}
